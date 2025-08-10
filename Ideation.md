@@ -36,4 +36,4 @@ Ask yourself questions to narrow down your project idea.
 **W**: user accounts/login, built-in team matching based on emojis selected, AI features???
 
 ### MVP Blueprint
-- [Figma](https://www.figma.com/design/BD2qlHZdnFZyhtbh9OornG/Untitled?node-id=0-1&t=JXQlKlWxLC6Fh91K-1)
+- During the stream, we created a low-fidelity wireframe on [Figma](https://www.figma.com/design/BD2qlHZdnFZyhtbh9OornG/Untitled?node-id=0-1&t=JXQlKlWxLC6Fh91K-1).
