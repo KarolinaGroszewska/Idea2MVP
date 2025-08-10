@@ -12,4 +12,12 @@
   - Must Have (M): critical, non-negotiable (app cannot exist without this feature)
   - Should Have (S): greatly improve the user experience, but are not required for the app to function. These are the first features developed after the MVP is completed.
   - Could Have (C): nice to have, but not critical. Should be considered for future releases.
-  - Won't Have (W): not a priority for the MVP, either not included at all or to be included in a future released. 
+  - Won't Have (W): not a priority for the MVP, either not included at all or to be included in a future released.
+- Tech Stack
+ 
+## Step-by-Step Guide
+- Initial Ideation
+- Determine the MVP
+- Breakdown MVP further using the MoSCoW method
+- Create a MVP blueprint – wireframes, UI flow
+- Tech Stack Determination
