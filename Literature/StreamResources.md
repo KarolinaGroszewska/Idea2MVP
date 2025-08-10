@@ -5,6 +5,7 @@
 - [Youtube](https://www.youtube.com/@MajorLeagueHacking)
 - [GHW Check-in Link](https://events.mlh.io/events/12777)
 - [This Repository](https://github.com/KarolinaGroszewska/Idea2MVP)
+- [Stream Feedback](mlh.link/ghwfeedback)
 
 ## Vocabulary
 - **MVP** (or minimum viable product) refers to the idea of creating a project that is focused on adding the least amount of features possible while still making a usable app that follows our vision. MVPs do not need to sacrifice the "heart" of our product – but they should focus on one core user, one core need, and one core feature.
