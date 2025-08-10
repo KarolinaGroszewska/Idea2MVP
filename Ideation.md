@@ -37,3 +37,14 @@ Ask yourself questions to narrow down your project idea.
 
 ### MVP Blueprint
 - During the stream, we created a low-fidelity wireframe on [Figma](https://www.figma.com/design/BD2qlHZdnFZyhtbh9OornG/Untitled?node-id=0-1&t=JXQlKlWxLC6Fh91K-1).
+
+### Tech Stack Determination 
+- Familiarity (focus on learning OR on idea execution)
+- Speed to Build (especially important in hackathons)
+- APIs, Resources, and Mentors 
+
+**Example Project Tech Stack**
+- Frontend: HTML/CSS/JS
+- Backend: Node.js, Express
+- Data: Static JSON of mood emojis --> ideas (M), AI API (S/C)
+- Styling: Tailwind CSS
