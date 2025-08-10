@@ -45,6 +45,4 @@ Ask yourself questions to narrow down your project idea.
 
 **Example Project Tech Stack**
 - Frontend: HTML/CSS/JS
-- Backend: Node.js, Express
-- Data: Static JSON of mood emojis --> ideas (M), AI API (S/C)
-- Styling: Tailwind CSS
+- Data: Static JSON of mood emojis --> ideas (M)
