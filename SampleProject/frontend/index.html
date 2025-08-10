@@ -1,27 +1,33 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8" />
     <title>moodBOaReD</title>
     <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
     <header>
         <h1>moodBOaReD</h1>
     </header>
 
- 
-    <main> 
+
+    <main>
+        <!-- <section id="emoji-input">
+            <label for="emoji-field">Type an emoji:</label>
+            <input type="text" id="emoji-field" maxlength="2" placeholder="😊" />
+        </section> -->
         <section>
-        <label for="mood">Select your mood:</label>
-        <select id="mood">
-            <option value="" disabled selected>Choose a Mood</option>
-            <option value="happy">😄</option>
-            <option value="sad">😔</option>
-            <option value="curious">🤔</option>
-            <option value="excited">😆</option>
-        </select>
-        <button id="get-ideas">Get Ideas</button>
+            <label for="mood">Select your mood:</label>
+            <select id="mood">
+                <option value="" disabled selected>Choose a Mood</option>
+                <option value="happy">😄</option>
+                <option value="sad">😔</option>
+                <option value="curious">🤔</option>
+                <option value="excited">😆</option>
+            </select>
+            <button id="get-ideas">Get Ideas</button>
         </section>
         <section id="results">
             <!-- Ideas will be displayed here -->
@@ -29,4 +35,5 @@
     </main>
     <script src="script.js"></script>
 </body>
+
 </html>

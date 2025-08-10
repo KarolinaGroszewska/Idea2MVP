@@ -22,6 +22,13 @@ main {
   padding: 2rem;
 }
 
+#emoji-input input {
+  font-size: 2rem;
+  padding: 0.5rem;
+  text-align: center;
+  width: 4rem;
+}
+
 #mood-picker {
   margin-bottom: 2rem;
   text-align: center;
@@ -51,4 +58,19 @@ select, button {
 
 .idea:last-child {
   border-bottom: none;
+}
+
+#get-ideas {
+  font-size: 1.2rem;
+  background-color: black;
+  color: white;
+  padding: 0.75rem 2rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+
+#get-ideas:hover {
+  background-color: #333;
 }
