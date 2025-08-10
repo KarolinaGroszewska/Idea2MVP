@@ -15,8 +15,14 @@ Ask yourself questions to narrow down your project idea.
   - Curious: new technology, new resources, exploration
 
 ### MVP Determination
-**One Core User**
-**One Core Need**
+**One Core User**: hackathon participant (focus on high school and college, beginner/early intermediate hackers) 
+
+**One Core Need**: <u>quickly</u>
+
 **One Core Feature**
+
 **MVP Statement**
-> 
+
+>
+
+### MoSCoW Method
