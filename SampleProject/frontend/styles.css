@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header, footer {
+  background-color: #f2f2f2;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem;
+}
+
+#mood-picker {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+label {
+  margin-right: 0.5rem;
+}
+
+select, button {
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+#results {
+  max-width: 500px;
+  width: 100%;
+  border: 1px dashed #ccc;
+  padding: 1rem;
+  min-height: 150px;
+}
+
+.idea {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.idea:last-child {
+  border-bottom: none;
+}
