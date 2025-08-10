@@ -13,7 +13,8 @@
   - Should Have (S): greatly improve the user experience, but are not required for the app to function. These are the first features developed after the MVP is completed.
   - Could Have (C): nice to have, but not critical. Should be considered for future releases.
   - Won't Have (W): not a priority for the MVP, either not included at all or to be included in a future released.
-- Tech Stack
+- **Tech Stack** technologies are those we will use for building out the project. This includes the programming languages, frameworks, databases, AI tools that are in the project, but not things we use for development.
+- **Low-Fidelity Wireframes** are very basic layouts of your app not including any design components. These are often done on paper, but can also be done in any design tool like Figma, or the Adobe suite. 
  
 ## Step-by-Step Guide
 - Initial Ideation
